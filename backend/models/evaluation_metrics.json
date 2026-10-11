@@ -1,0 +1,13 @@
+{
+  "accuracy": 0.9961501443695862,
+  "train_rows": 4156,
+  "test_rows": 1039,
+  "unique_complaints": 5195,
+  "categories": [
+    "Drainage Blockage",
+    "Garbage",
+    "Road Damage",
+    "Streetlight Fault",
+    "Water Leakage"
+  ]
+}
